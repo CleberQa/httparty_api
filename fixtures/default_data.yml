@@ -1,0 +1,10 @@
+dev:
+  city:
+    Italy: Italy
+    not_exist: naoexiste
+    empty:
+  zip:
+    zipcode: 94040
+    country: us
+    not_exist: 900090
+    empty:
